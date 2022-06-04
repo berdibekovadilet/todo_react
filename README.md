@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Simple Todo on React with functions delete, complete.
+
+[!banner]cover/1.jpg
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
