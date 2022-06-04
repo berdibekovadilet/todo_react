@@ -1,6 +1,5 @@
 # Simple Todo on React with functions delete, complete.
-# Live
-https://berdibekovadilet.github.io/react_todo
+
 
 ![banner](cover/1.jpg)
 ![banner2](cover/2.jpg)
