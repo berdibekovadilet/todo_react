@@ -1,6 +1,9 @@
 # Simple Todo on React with functions delete, complete.
 
+# Live
+https://todoadilet.netlify.app/
 
+# Cover
 ![banner](cover/1.jpg)
 ![banner2](cover/2.jpg)
 
